@@ -19,19 +19,10 @@
  */
 
 // TODO testing stuff
+// TODO added as intlandguy
 
 #ifndef MONGO_PCH_H
 #define MONGO_PCH_H
-
-#if defined(MONGO_EXPOSE_MACROS)
-# define JS_C_STRINGS_ARE_UTF8
-# undef  SUPPORT_UCP
-# define SUPPORT_UCP
-# undef  SUPPORT_UTF8
-# define SUPPORT_UTF8
-# undef  _CRT_SECURE_NO_WARNINGS
-# define _CRT_SECURE_NO_WARNINGS
-#endif
 
 // [dm] i am not sure why we need this.
 #if defined(WIN32)
