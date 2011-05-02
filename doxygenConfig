@@ -1,6 +1,3 @@
-#---------------------------------------------------------------------------
-# Project related configuration options
-#---------------------------------------------------------------------------
 DOXYFILE_ENCODING      = UTF-8
 PROJECT_NAME           = MongoDB-hack
 PROJECT_NUMBER         = 1.8.0-rc0-pre-
