@@ -23,7 +23,7 @@
 # $LastChangedDate$
 # $LastChangedBy$
 
-import SCons.Action
+// import SCons.Action
 import SCons.Builder
 import SCons.Scanner.C
 import SCons.Util
