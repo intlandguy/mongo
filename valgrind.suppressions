@@ -1,8 +1,6 @@
 {
    Command_Static_Stuff
    Memcheck:Leak
-   ...
    fun:_ZNSsC1EPKcRKSaIcE
-   ...
 }
 

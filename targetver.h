@@ -14,8 +14,5 @@
 *    along with this program.  If not, see <http://www.gnu.org/licenses/>.
 */
 
-#ifndef _WIN32_
-#define _WIN32_WINNT 0x0600     // Change this to the appropriate value to target other versions of Windows.
-#endif
-
 // hello world!
+// hello in May
