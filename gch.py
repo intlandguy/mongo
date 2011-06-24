@@ -1,4 +1,4 @@
-# $Id$
+   # $Id$
 #
 # SCons builder for gcc's precompiled headers
 # Copyright (C) 2006  Tim Blechmann
