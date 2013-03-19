@@ -60,6 +60,8 @@ def static_pch_emitter(target,source,env):
         if header_path(env['Gch']) in [x.path for x in deps]:
             env.Depends(target, env['Gch'])
 
+	hey!
+
     return (target, source)
 
 def shared_pch_emitter(target,source,env):
